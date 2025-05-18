@@ -1,26 +1,26 @@
-<h1 align="center">Heyo, I'm Radioactive (only slightly)</h1>
+<h1 align="center">Heyo 👋, I'm Radioactive ☢️ (only slightly)</h1>
 <h3 align="center">A developer, student, and confused man trying to enter his "Jack of All Trades" era. I am like a boomer when it comes to being on the grid, so I have practically no socials or posts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radioactive-exe&label=Irradiated%20Visitors&color=0eb448&style=flat" alt="radioactive-exe" /> </p>
 
-<h2>A small Run-down</h2>
+<h2>🤔 What's Going on with Me?</h2>
 
 - I’m currently working on many things! Trying to focus on my degree (kinda), but programming-wise, Web applications and MC Mods are at the forefront for me right now. Here's my latest complete baby, [Quizard.](https://radioactive-exe.github.io/Quizard/)
 
-- I’m currently learning **FabricMC modding, Vue, Swift, Maven/Gradle.**
+- 🖋️ I’m currently learning **FabricMC modding, Vue, Swift, Maven/Gradle.**
 
-- I’m looking to collaborate on **any projects anyone needs a collaborator on. Here to learn and meet new people.**
+- 🤝 I’m looking to collaborate on **any projects anyone needs a collaborator on. Here to learn and meet new people.**
 
-- Ask me about **CSS, JS, Java, C++, and QT. Oh, and random dinosaur and egyptology facts.**
+- ❓ Ask me about **CSS, JS, Java, C++, and QT. Oh, and random dinosaur and egyptology facts.**
 
-- Fun facts **I love languages - I speak 3 fluently and I am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**
+- ⚡ Fun facts **I love languages - I speak 3 fluently and am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🔗 Connect with Me</h2>
 <p align="left">
   I'll make socials, I promise (maybe).
 </p>
 
-<h2 align="left">Languages, Tools, and Software:</h2>
+<h2 align="left">🪚 Languages, Tools, and Software:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -83,8 +83,15 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
 
+<h2>🎧 What am I Listening to?</h2>
 
-<h2>Some Misc. Stats and Eye Candy</h2>
+<div align="center">
+  <a href="https://open.spotify.com/user/.exe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=.exe&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+<h2>📊 Some Misc. Stats and Eye Candy</h2>
 
 <img align="center" src="https://raw.githubusercontent.com/radioactive-exe/radioactive-exe/output/snake.svg" alt="Snake animation" />
 <div align="center">
