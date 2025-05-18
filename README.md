@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radioactive-exe" alt="radioactive-exe" /></a> </p>
 
 <h2>A small Run-down</h2>
+
 - I’m currently working on many things! Trying to focus on my degree (kinda), but programming-wise, Web applications and MC Mods are at the forefront for me right now. Here's my latest complete baby, [Quizard.](https://radioactive-exe.github.io/Quizard/)
 
 - I’m currently learning **FabricMC modding, Vue, Swift, Maven/Gradle.**
