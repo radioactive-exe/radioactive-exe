@@ -7,13 +7,13 @@
 
 - I’m currently working on many things! Trying to focus on my degree (kinda), but programming-wise, Web applications and MC Mods are at the forefront for me right now. Here's my latest complete baby, [Quizard.](https://radioactive-exe.github.io/Quizard/)
 
-- 🖋️ I’m currently learning **FabricMC modding, Vue, Swift, Maven/Gradle.**
+- 🖋️ I’m currently learning **FabricMC modding, Vue, Swift, and Maven/Gradle.**
 
-- 🤝 I’m looking to collaborate on **any projects anyone needs a collaborator on. Here to learn and meet new people.**
+- 🤝 I’m looking to collaborate on **any projects anyone needs a collaborator for. Here to learn and meet new people.**
 
 - ❓ Ask me about **CSS, JS, Java, C++, and QT. Oh, and random dinosaur and egyptology facts.**
 
-- ⚡ Fun facts **I love languages - I speak 3 fluently and am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**
+- ⚡ Fun facts: **I love languages - I speak 3 fluently and am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**
 
 <h2 align="left">🔗 Connect with Me</h2>
 <p align="left">
