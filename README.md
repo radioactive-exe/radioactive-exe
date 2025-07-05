@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to collaborate on **any projects anyone needs a collaborator for. Here to learn and meet new people.**
 
-- ❓ Ask me about **CSS, JS, Java, C++, and QT. Oh, and random dinosaur and egyptology facts.**
+- ❓ Ask me about **CSS, TS, Java, C++, and QT. Oh, and random dinosaur and egyptology facts.**
 
 - ⚡ Fun facts: **I love languages - I speak 3 fluently and am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**
 
