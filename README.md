@@ -5,7 +5,7 @@
 
 <h2>🤔 What's Going on with Me?</h2>
 
-- I’m currently working on many things! Trying to focus on my degree (kinda), but programming-wise, Web applications and MC Mods are at the forefront for me right now. Here's my latest complete baby, [Quizard.](https://radioactive-exe.github.io/Quizard/)
+- I’m currently working on many things! Trying to focus on my degree (kinda), but programming-wise, Web applications and MC Mods are at the forefront for me right now. Here's my latest complete baby, [Smorgasboard.](https://smorgasboard.irradiated.app/)
 
 - 🖋️ I’m currently learning **FabricMC modding, Vue, Swift, and Maven/Gradle.**
 
