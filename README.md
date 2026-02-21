@@ -95,7 +95,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/radioactive-exe/radioactive-exe/output/snake.svg" alt="Snake animation" />
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=radioactive-exe&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy graph"  />
+  <img src="https://trophy.ryglcloud.net?username=radioactive-exe&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy graph"  />
   <img src="https://github-readme-stats-fawn-omega-26.vercel.app/api?username=radioactive-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&rank_icon=github" height="150" alt="Stats graph"  />
   <img src="https://github-readme-stats-fawn-omega-26.vercel.app/api/top-langs?username=radioactive-exe&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dracula&hide_border=false&exclude_repo=github-readme-streak-stats,github-readme-stats&order=2" height="150" alt="Languages graph"  />
   <img src="https://github-readme-streak-stats-pi-tawny.vercel.app/?user=radioactive-exe&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph"  />
