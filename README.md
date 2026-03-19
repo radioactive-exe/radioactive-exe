@@ -5,9 +5,9 @@
 
 <h2>🤔 What's Going on with Me?</h2>
 
-- I’m currently working on many things! Trying to focus on my degree, but programming-wise, Web applications and MC Mods are at the forefront for me right now. Here's my latest complete baby, [Smorgasboard.](https://smorgasboard.irradiated.app/)
+- I’m currently working on many things! Trying to focus on my degree, but programming-wise, Web applications are at the forefront for me right now. Here's my latest complete baby, [Smorgasboard.](https://smorgasboard.irradiated.app/)
 
-- 🖋️ I’m currently learning **FabricMC modding, Vue, Swift, and Maven/Gradle.**
+- 🖋️ I’m currently learning **Windows Modding, WinUI Apps, and Server management**
 
 - 🤝 I’m looking to collaborate on **any projects anyone needs a collaborator for. Here to learn and meet new people.**
 
