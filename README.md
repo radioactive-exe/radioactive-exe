@@ -17,6 +17,11 @@
 
 <h2 align="left">🔗 Connect with Me</h2>
 <p align="left">
+  <div align="left">
+  <a href="https://discord.com/users/228957209537544193" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
   I'll make socials, I promise (maybe).
 </p>
 
