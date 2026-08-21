@@ -1,19 +1,24 @@
-<h1 align="center">Heyo 👋, I'm Radioactive ☢️ (only slightly)</h1>
-<h3 align="center">A developer, student, and confused man trying to enter his "Jack of All Trades" era. I am like a boomer when it comes to being on the grid, so I have practically no socials or posts.</h3>
+<p align="center">
+  <a href="https://github.com/radioactive-exe">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=762&animation=blink&text=Heyo!%20I'm%20Radioactive" alt="Heyo! I&#39;m Radioactive" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radioactive-exe&label=Irradiated%20Visitors&color=0eb448&style=flat" alt="radioactive-exe" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=%E2%98%A2%EF%B8%8F%20(only%20slightly)%20%E2%98%A2%EF%B8%8F;%E2%98%A2%EF%B8%8F%20Open%20files%20and%20repositories%20with%20sufficient%20Hazmat%20protection.%20%E2%98%A2%EF%B8%8F" alt="Typing headlines" />
+</p>
 
-<h2>🤔 What's Going on with Me?</h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=radioactive-exe&label=Irradiated%20Visitors&color=0eb448&style=flat" alt="radioactive-exe" /> </p>
 
-- I’m currently working on many things! Trying to focus on my degree, but programming-wise, Web applications are at the forefront for me right now. Here's my latest complete baby, [Smorgasboard.](https://smorgasboard.irradiated.app/)
+## 🤔 What's Going on with Me?
 
-- 🖋️ I’m currently learning **Windows Modding, WinUI Apps, and Server management**
+A developer, graphic designer, student, and confused man trying to enter his "Jack of All Trades" era. I am like a boomer when it comes to being on the grid, so I have practically no socials or posts.
 
-- 🤝 I’m looking to collaborate on **any projects anyone needs a collaborator for. Here to learn and meet new people.**
-
-- ❓ Ask me about **CSS, TS, Java, and QT. Oh, and random dinosaur and egyptology facts.**
-
-- ⚡ Fun facts: **I love languages - I speak 3 fluently and am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**
+- 🔭 &nbsp;I'm currently working on **many things! Trying to focus on my degree, but programming-wise, Web applications are at the forefront for me right now. Here's my latest complete baby, [Smorgasboard](https://smorgasboard.irradiated.app).**  
+- 🌱 &nbsp;I'm currently learning **Windows Modding, WinUI Apps, and Server management**  
+- 👯 &nbsp;I'm looking to collaborate on **any projects anyone needs a collaborator for. Here to learn and meet new people.**  
+- 💬 &nbsp;Ask me about **CSS, TS, Java, and QT. Oh, and random dinosaur and Egyptology facts.**  
+- ⚡ &nbsp;Fun fact: **I love languages - I speak 3 fluently and am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**
 
 <h2 align="left">🔗 Connect with Me</h2>
 <p align="left">
@@ -92,7 +97,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/.exe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0r1jeo2eyx41ci580cpck3gd&unique=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0r1jeo2eyx41ci580cpck3gd&unique=1" alt="Spotify recently played" />
   </a>
 </div>
 
