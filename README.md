@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/radioactive-exe">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=762&animation=blink&text=Heyo!%20I'm%20Radioactive" alt="Heyo! I&#39;m Radioactive" />
+    <img src="https://readme-typing-svg.demolab.com?color=0891b2&font=Bitcount+Grid+Single&size=54&duration=1500&pause=1000&center=true&repeat=false&width=762&height=90&lines=Heyo!+I'm+Radioactive" alt="Heyo! I'm Radioactive" />
   </a>
 </p>
 
