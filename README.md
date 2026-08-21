@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=%E2%98%A2%EF%B8%8F%20(only%20slightly)%20%E2%98%A2%EF%B8%8F;%E2%98%A2%EF%B8%8F%20Open%20files%20and%20repositories%20with%20sufficient%20Hazmat%20protection.%20%E2%98%A2%EF%B8%8F" alt="Typing headlines" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=radioactive-exe&label=Irradiated%20Visitors&color=0eb448&style=flat" alt="radioactive-exe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=radioactive-exe&label=Irradiated%20Visitors&color=0891b2&style=flat" alt="radioactive-exe" /> </p>
 
 ## 🤔 What's Going on with Me?
 
