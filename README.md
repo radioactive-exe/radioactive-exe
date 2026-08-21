@@ -97,7 +97,7 @@ A developer, graphic designer, student, and confused man trying to enter his "Ja
 
 <div align="center">
   <a href="https://open.spotify.com/user/.exe">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=n0r1jeo2eyx41ci580cpck3gd&theme=radical&count=7&width=700&radius=15&avatar=0&unique=1&bg_color=00000000" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=n0r1jeo2eyx41ci580cpck3gd&theme=radical&count=7&width=850&radius=15&avatar=0&unique=1&bg_color=00000000" alt="Spotify recently played" />
   </a>
 </div>
 
