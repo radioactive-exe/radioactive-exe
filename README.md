@@ -12,6 +12,8 @@
 
 ## 🤔 What's Going on with Me?
 
+<img align="right" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api?username=radioactive-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&rank_icon=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-streak-stats,github-readme-stats-extended" height="150" alt="Stats graph"  />
+
 A developer, graphic designer, student, and confused man trying to enter his "Jack of All Trades" era. I am like a boomer when it comes to being on the grid, so I have practically no socials or posts.
 
 - 🔭 &nbsp;I'm currently working on **many things! Trying to focus on my degree, but programming-wise, Web applications are at the forefront for me right now. Here's my latest complete baby, [Smorgasboard](https://smorgasboard.irradiated.app).**  
@@ -31,7 +33,10 @@ A developer, graphic designer, student, and confused man trying to enter his "Ja
 </p>
 
 <h2 align="left">🪚 Languages, Tools, and Software:</h2>
-<div align="center">
+
+<img align="left" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api/top-langs?username=radioactive-exe&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=aura&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats-extended,Macro-Deck-3,Macro-Deck-Branding&order=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" alt="Languages graph"  />
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="cplusplus logo"  />
@@ -93,6 +98,8 @@ A developer, graphic designer, student, and confused man trying to enter his "Ja
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" alt="ubuntu logo"  />
 </div>
 
+<br clear="left"/>
+
 <h2>🎧 What am I Listening to?</h2>
 
 <div align="center">
@@ -105,10 +112,8 @@ A developer, graphic designer, student, and confused man trying to enter his "Ja
 
 <div align="center" width="100%">
   <img align="center" src="https://raw.githubusercontent.com/radioactive-exe/radioactive-exe/output/snake.svg" alt="Snake animation" />
+  <img align="right" src="https://github-readme-streak-stats-gamma-five.vercel.app/?user=radioactive-exe&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="150" alt="Streak graph"  />
   <img src="https://trophy.ryglcloud.net?username=radioactive-exe&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="Trophy graph"  />
-  <img src="https://github-stats-extended-frontend-roan-pi.vercel.app/api?username=radioactive-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&rank_icon=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-streak-stats,github-readme-stats-extended" height="150" alt="Stats graph"  />
-  <img src="https://github-stats-extended-frontend-roan-pi.vercel.app/api/top-langs?username=radioactive-exe&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=aura&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats-extended,Macro-Deck-3,Macro-Deck-Branding&order=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="150" alt="Languages graph"  />
-  <img src="https://github-readme-streak-stats-gamma-five.vercel.app/?user=radioactive-exe&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=0" height="150" alt="Streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=radioactive-exe&radius=16&theme=redical&area=true&order=5" height="300" alt="Activity graph"  />
 </div>
 
