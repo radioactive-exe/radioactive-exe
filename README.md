@@ -17,7 +17,7 @@
 A developer, graphic designer, student, and confused man trying to enter his "Jack of All Trades" era. I am like a boomer when it comes to being on the grid, so I have practically no socials or posts.
 
 - 🔭 &nbsp;I'm currently working on **many things! Trying to focus on my degree, but programming-wise, Web applications are at the forefront for me right now. Here's my latest complete baby, [Smorgasboard](https://smorgasboard.irradiated.app).**  
-- 🌱 &nbsp;I'm currently learning **Windows Modding, WinUI Apps, and Server management**  
+- 🌱 &nbsp;I'm currently learning **Database management and .NET.**  
 - 👯 &nbsp;I'm looking to collaborate on **any projects anyone needs a collaborator for. Here to learn and meet new people.**  
 - 💬 &nbsp;Ask me about **CSS, TS, Java, and QT. Oh, and random dinosaur and Egyptology facts.**  
 - ⚡ &nbsp;Fun fact: **I love languages - I speak 3 fluently and am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**
