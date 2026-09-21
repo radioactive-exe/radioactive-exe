@@ -23,14 +23,14 @@
   - 💬 &nbsp;Ask me about **CSS, TS, Java, and QT. Oh, and random dinosaur and Egyptology facts.**  
   - ⚡ &nbsp;Fun fact: **I love languages - I speak 3 fluently and am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**      
     </td>
-    <td width="40%">
-      <img align="right" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api?username=radioactive-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=00000000&order=1&rank_icon=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-streak-stats,github-readme-stats-extended" width="100%" alt="Stats graph"  />
+    <td width="40%" height="50%">
+      <img width="100%" align="right" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api?username=radioactive-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=00000000&order=1&rank_icon=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-streak-stats,github-readme-stats-extended" width="100%" alt="Stats graph"  />
     </td>
   </tr>
   <tr></tr>
   <tr>
-    <td>
-        <img align="right" src="https://github-readme-streak-stats-gamma-five.vercel.app/?user=radioactive-exe&locale=en&mode=weekly&theme=aura&hide_border=true&background=00000000&border_radius=5" width="100%" alt="Streak graph"  />
+    <td height="50%">
+        <img width="100%" align="right" src="https://github-readme-streak-stats-gamma-five.vercel.app/?user=radioactive-exe&locale=en&mode=weekly&theme=aura&hide_border=true&background=00000000&border_radius=5" width="100%" alt="Streak graph"  />
     </td>
   </tr>
 </table>
