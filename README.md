@@ -142,7 +142,7 @@
 <div align="center" width="100%">
   <img align="center" src="https://raw.githubusercontent.com/radioactive-exe/radioactive-exe/output/snake.svg" alt="Snake animation" />
   <img src="https://trophy.ryglcloud.net?username=radioactive-exe&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="Trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radioactive-exe&radius=16&theme=redical&area=true&order=5" height="300" alt="Activity graph"  />
+  <img src="https://github-readme-activity-graph-seven-swart.vercel.app/graph?username=radioactive-exe&radius=16&theme=redical&area=true&order=5" height="300" alt="Activity graph"  />
 </div>
 
 <!--
