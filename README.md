@@ -16,8 +16,8 @@
   <tr>
     <td rowspan="3" width="60%">
   A developer, graphic designer, student, and confused man trying to become a Jack of All Trades. <br/>
-  **// Creator of [Smorgasboard](https://smorgasboard.irradiated.app)** <br/>
-  **// Brand designer for [Macro Deck](https://macro-deck.app)** <br/><br/>
+  <b>// Creator of [Smorgasboard](https://smorgasboard.irradiated.app)</b> <br/>
+  <b>// Brand designer for [Macro Deck](https://macro-deck.app)</b> <br/><br/>
   
   - 🔭 &nbsp;I'm currently working on **many things! Trying to focus on my degree, but programming-wise, Web applications are at the forefront for me right now. Here's my latest complete baby, [Smorgasboard](https://smorgasboard.irradiated.app).**  
   - 🌱 &nbsp;I'm currently learning **Database management and .NET.**  
