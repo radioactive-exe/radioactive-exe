@@ -15,15 +15,20 @@
 <table>
   <tr>
     <td rowspan="3" width="60%">
-  A developer, graphic designer, student, and confused man trying to become a Jack of All Trades. <br/>
-  <b>// Creator of [Smorgasboard](https://smorgasboard.irradiated.app)</b> <br/>
-  <b>// Brand designer for [Macro Deck](https://macro-deck.app)</b> <br/><br/>
+      
+  A developer, graphic designer, student, and confused man trying to become a Jack of All Trades.
   
-  - 🔭 &nbsp;I'm currently working on **many things! Trying to focus on my degree, but programming-wise, Web applications are at the forefront for me right now. Here's my latest complete baby, [Smorgasboard](https://smorgasboard.irradiated.app).**  
-  - 🌱 &nbsp;I'm currently learning **Database management and .NET.**  
-  - 👯 &nbsp;I'm looking to collaborate on **any projects anyone needs a collaborator for. Here to learn and meet new people.**  
+  🧪 Creator of [Smorgasboard](https://smorgasboard.irradiated.app)
+  
+  🧪 Brand designer for [Macro Deck](https://macro-deck.app)
+
+  ---
+  
+  - 🔭 &nbsp;I'm currently working on **finishing my degree, but programming-wise, Web applications are at the forefront for me right now. Hoping to continue growing [Smorgasboard](https://smorgasboard.irradiated.app).**  
+  - 🌱 &nbsp;I'm currently learning **.NET.**  
+  - 👯 &nbsp;I'm looking to collaborate on **anything! Here to learn and meet new people.**  
   - 💬 &nbsp;Ask me about **CSS, TS, Java, and QT. Oh, and random dinosaur and Egyptology facts.**  
-  - ⚡ &nbsp;Fun fact: **I love languages - I speak 3 fluently and am currently learning 2 more. I also live and breathe music. This stuff is my lifeline, all day, all night.**      
+  - ⚡ &nbsp;Fun fact: **I love languages - I speak 3 fluently, and I am currently learning 2 more. I also live and breathe music, all day, all night.**      
     </td>
     <td width="40%" height="50%">
       <img width="100%" align="right" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api?username=radioactive-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=00000000&order=1&rank_icon=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-streak-stats,github-readme-stats-extended" width="100%" alt="Stats graph"  />
@@ -60,11 +65,11 @@
     </td>
     <td>
       <dl>
-        <dt>
-          <img align="left" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api/top-langs?username=radioactive-exe&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=aura&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats-extended,Macro-Deck-3,Macro-Deck-Branding&order=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Languages graph"  />
+        <dt align="left">
+          <img align="left" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api/top-langs?username=radioactive-exe&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=aura&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats-extended,Macro-Deck-3,Macro-Deck-Branding&order=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="100%" alt="Languages graph"  />
         </dt>
         <dd>
-          <div align="left">
+          <div align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" alt="java logo"  />
             <img width="12" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="cplusplus logo"  />
