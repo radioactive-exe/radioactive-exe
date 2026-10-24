@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/radioactive-exe">
-    <img src="https://readme-typing-svg.demolab.com?color=0891b2&font=Bitcount+Grid+Single&size=54&duration=1500&pause=1000&center=true&repeat=false&width=762&height=90&lines=Heyo!+I'm+Radioactive" alt="Heyo! I'm Radioactive" />
+    <img src="https://readme-typing-svg.demolab.com?color=0891b2&font=Bitcount+Prop+Single&size=54&duration=1500&pause=1000&center=true&repeat=false&width=762&height=90&lines=Heyo!+I'm+Radioactive" alt="Heyo! I'm Radioactive" />
   </a>
 </p>
 
