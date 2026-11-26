@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td rowspan="5" width="45%">
+    <td rowspan="6" width="45%">
       
   A developer, graphic designer, student, and confused man trying to become a Jack of All Trades.
   
@@ -31,19 +31,25 @@
 
     </td>
     <td width="55%" height="37.5%">
-      <img width="100%" align="right" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api?username=radioactive-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=00000000&order=1&rank_icon=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-streak-stats,github-readme-stats-extended" width="100%" alt="Stats graph"  />
+      <img align="right" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api?username=radioactive-exe&show=reviews%2Cprs_merged%2Cprs_commented%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=aura&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-streak-stats,github-readme-stats-extended&contribs_include_own_repos=true&count_private=true&bg_color=00000000&hide_border=true&rank_icon=default" alt="Stats graph"  />
     </td>
   </tr>
   <tr></tr>
   <tr>
     <td height="37.5%">
-        <img width="100%" align="right" src="https://github-readme-streak-stats-gamma-five.vercel.app/?user=radioactive-exe&locale=en&mode=weekly&theme=aura&hide_border=true&background=00000000&border_radius=5" width="100%" alt="Streak graph"  />
+        <img align="right" src="https://github-readme-streak-stats-gamma-five.vercel.app/?user=radioactive-exe&locale=en&mode=weekly&theme=aura&hide_border=true&background=00000000&border_radius=5" alt="Streak graph"  />
     </td>
   </tr>
   <tr></tr>
   <tr>
-    <td  align="center">
-      <img src="https://trophy.ryglcloud.net?username=radioactive-exe&theme=radical&column=3&row=3&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" alt="Trophy graph" height="100%"/>
+    <td align="center">
+      <img src="https://trophy.ryglcloud.net?username=radioactive-exe&theme=radical&column=4&row=3&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4&title=-Reviews" alt="Trophy graph" height="100%"/>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph-seven-swart.vercel.app/graph?username=radioactive-exe&radius=16&theme=radical&area=true&order=5&height=300&custom_title=Recent%20Irradiating%20Contributions" alt="Activity graph"  />
     </td>
   </tr>
 </table>
@@ -53,8 +59,8 @@
 <h2 align="left">🪚 Languages, Tools, and Software:</h2>
 <table>
   <tr>
-    <td width="50%">
-          <img align="left" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api/top-langs?username=radioactive-exe&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=aura&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats-extended,Macro-Deck-3,Macro-Deck-Branding&order=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="100%" alt="Languages graph"  />      
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended-frontend-roan-pi.vercel.app/api/top-langs?username=radioactive-exe&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=radical&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats-extended,Macro-Deck-3,&order=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_bg=true" height="100%" alt="Languages graph"  />      
     </td>
     <td>
       <div align="center">
@@ -146,7 +152,6 @@
 
 <div align="center" width="100%">
   <img align="center" src="https://raw.githubusercontent.com/radioactive-exe/radioactive-exe/output/snake.svg" alt="Snake animation" />
-  <img src="https://github-readme-activity-graph-seven-swart.vercel.app/graph?username=radioactive-exe&radius=16&theme=redical&area=true&order=5&height=350" alt="Activity graph"  />
 </div>
 
 <!--
