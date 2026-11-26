@@ -14,7 +14,13 @@
 
 <table>
   <tr>
-    <td rowspan="3" width="60%">
+    <td colspan="2">
+      <img src="https://trophy.ryglcloud.net?username=radioactive-exe&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="200" alt="Trophy graph"  />
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td rowspan="3" width="50%">
       
   A developer, graphic designer, student, and confused man trying to become a Jack of All Trades.
   
@@ -23,14 +29,13 @@
   🧪 Brand designer for [Macro Deck](https://macro-deck.app)
 
   ---
-  
-  - 🔭 &nbsp;I'm currently working on **finishing my degree, but programming-wise, Web applications are at the forefront for me right now. Hoping to continue growing [Smorgasboard](https://smorgasboard.irradiated.app).**  
-  - 🌱 &nbsp;I'm currently learning **.NET.**  
-  - 👯 &nbsp;I'm looking to collaborate on **anything! Here to learn and meet new people.**  
-  - 💬 &nbsp;Ask me about **CSS, TS, Java, and QT. Oh, and random dinosaur and Egyptology facts.**  
-  - ⚡ &nbsp;Fun fact: **I love languages - I speak 3 fluently, and I am currently learning 2 more. I also live and breathe music, all day, all night.**      
+  - 🔭 &nbsp;I'm currently working on **finishing my degree, but programming-wise, Web applications are at the forefront for me right now. Hoping to continue growing [Smorgasboard](https://smorgasboard.irradiated.app)**.  
+  - 🌱 &nbsp;I'm currently learning **.NET**.  
+  - 👯 &nbsp;I'm looking to collaborate on **anything! Here to learn and meet new people**.  
+  - 💬 &nbsp;Ask me about **CSS, TS, Java, and QT. Oh, and random dinosaur and Egyptology facts**.  
+  - ⚡ &nbsp;Fun fact: **I love languages - I speak 3 fluently, and I am currently learning 2 more. I also live and breathe music, all day, all night**.
     </td>
-    <td width="40%" height="50%">
+    <td width="50%" height="50%">
       <img width="100%" align="right" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api?username=radioactive-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=00000000&order=1&rank_icon=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-streak-stats,github-readme-stats-extended" width="100%" alt="Stats graph"  />
     </td>
   </tr>
@@ -42,113 +47,104 @@
   </tr>
 </table>
 
+
+
+<h2 align="left">🪚 Languages, Tools, and Software:</h2>
 <table>
   <tr>
-    <td width="33%">  
-        <h2 align="left">🔗 Connect with Me</h2>
-    </td>
-    <td colspan="2">
-        <h2 align="left">🪚 Languages, Tools, and Software:</h2>
-    </td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td>
-        <p align="left">
-          <div align="left">
-          <a href="https://discord.com/users/228957209537544193" target="_blank">
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-          </a>
-        </div>
-          I'll make socials, I promise (maybe).
-        </p>
+    <td width="45%">
+          <img align="left" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api/top-langs?username=radioactive-exe&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=aura&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats-extended,Macro-Deck-3,Macro-Deck-Branding&order=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="100%" alt="Languages graph"  />      
     </td>
     <td>
-      <dl>
-        <dt align="left">
-          <img align="left" src="https://github-stats-extended-frontend-roan-pi.vercel.app/api/top-langs?username=radioactive-exe&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=aura&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats-extended,Macro-Deck-3,Macro-Deck-Branding&order=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="100%" alt="Languages graph"  />
-        </dt>
-        <dd>
-          <div align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" alt="java logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="cplusplus logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="csharp logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5 logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="css3 logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="javascript logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="microsoftsqlserver logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="tailwindcss logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="bootstrap logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/qt/41CD52" width="40" alt="qt logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=unreal" width="40" alt="unrealengine logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="40" alt="unity logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/babel/F9DC3E" width="40" alt="babel logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=express" width="40" alt="express logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="40" alt="apachemaven logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/gradle/02303A" width="40" alt="gradle logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/blender/F5792A" width="40" alt="blender logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=ai" width="40" alt="adobeillustrator logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=ps" width="40" alt="adobephotoshop logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=figma" width="40" alt="figma logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=postman" width="40" alt="postman logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="intellij logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="git logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=github" width="40" alt="github logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="linux logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" alt="ubuntu logo"  />
-          </div>
-        </dd>
-      </dl>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" alt="java logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="cplusplus logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="csharp logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5 logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="css3 logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="javascript logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="microsoftsqlserver logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="tailwindcss logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="bootstrap logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/qt/41CD52" width="40" alt="qt logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=unreal" width="40" alt="unrealengine logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="40" alt="unity logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/babel/F9DC3E" width="40" alt="babel logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=express" width="40" alt="express logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="40" alt="apachemaven logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/gradle/02303A" width="40" alt="gradle logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/blender/F5792A" width="40" alt="blender logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=ai" width="40" alt="adobeillustrator logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=ps" width="40" alt="adobephotoshop logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=figma" width="40" alt="figma logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=postman" width="40" alt="postman logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="intellij logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="git logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=github" width="40" alt="github logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="linux logo"  />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" alt="ubuntu logo"  />
+      </div>
     </td>
   </tr>
 </table>
 
-<h2>🎧 What am I Listening to?</h2>
+<h2>🔗 Connect with Me</h2>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/.exe">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=n0r1jeo2eyx41ci580cpck3gd&theme=radical&count=7&width=850&radius=15&avatar=0&unique=1&bg_color=00000000" alt="Spotify recently played" />
-  </a>
-</div>
+<table align="center">
+  <tr width="100%">
+    <td width="40%">
+      <div align="center">
+        <a href="https://discord.com/users/228957209537544193" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+        </a>
+      </div>
+        <p><sub>I'll make socials, I promise (maybe).</sub></p>
+    </td>
+    <td width="60%">
+      <a href="https://open.spotify.com/user/.exe">
+        <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=n0r1jeo2eyx41ci580cpck3gd&theme=radical&count=7&width=500&radius=15&avatar=0&unique=1&bg_color=00000000" alt="Spotify recently played"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2>📊 Some Misc. Stats and Eye Candy</h2>
 
 <div align="center" width="100%">
   <img align="center" src="https://raw.githubusercontent.com/radioactive-exe/radioactive-exe/output/snake.svg" alt="Snake animation" />
-  <img src="https://trophy.ryglcloud.net?username=radioactive-exe&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="Trophy graph"  />
   <img src="https://github-readme-activity-graph-seven-swart.vercel.app/graph?username=radioactive-exe&radius=16&theme=redical&area=true&order=5&height=350" alt="Activity graph"  />
 </div>
 
